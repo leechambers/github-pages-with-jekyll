@@ -1,1 +1,0 @@
-Some **github** training today
